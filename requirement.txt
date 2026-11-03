@@ -1,0 +1,12 @@
+transformers
+torch
+accelerate
+pydantic
+pydantic-settings
+openai
+pandas
+numpy
+matplotlib
+sentencepiece
+python-dotenv
+outlines
